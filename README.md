@@ -9,6 +9,11 @@ An all-in-one PowerShell arsenal for system administrators: practical, standalon
 | Tool | What it does | Status |
 |---|---|---|
 | [**AIO Certs**](https://github.com/BullisticZA/AdminArsenal/tree/main/tools/aio-certs) | CSR → PFX → silent install → expiry report, without clicking through MMC | ✅ v0.1 |
+| [**PassForge**](https://github.com/BullisticZA/AdminArsenal/tree/main/tools/passforge) | Crypto-secure passwords and passphrases, strength meter, private breach check | ✅ v1.0 |
+| [**PC Health**](https://github.com/BullisticZA/AdminArsenal/tree/main/tools/pc-health) | Scored Windows health check with HTML report, plus a preview-first cleanup | ✅ v1.0 |
+
+### 🎮 [FPS Tuner](https://github.com/BullisticZA/fps-tuner)
+Scans your PC and installed games (Steam, Epic, GOG), then recommends the best graphics settings for each one, with upscaling, FPS estimates and game-specific tips. Built in Python.
 
 ### 🔧 What I'm into
 - **PowerShell automation** and scripting
