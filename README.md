@@ -1,6 +1,6 @@
 ## Hi, I'm Charl Britz 👋
 
-**IT engineer** · Cape Town, South Africa 🇿🇦  
+**Senior IT Systems Specialist** · Cape Town, South Africa 🇿🇦  
 I build tools that take the repetitive work out of IT: automation, certificates, scripting and infrastructure.
 
 ### 🛡️ Featured: [AdminArsenal](https://github.com/BullisticZA/AdminArsenal)
